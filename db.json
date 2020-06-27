@@ -1,0 +1,28 @@
+{
+    "courses": [
+	{
+        "id": 1,
+        "title": "React desde cero",
+        "image": "https://edteam-media.s3.amazonaws.com/courses/original/7fd29763-c6b4-4a98-951b-65a5b26b8aaa.png",
+        "price": 40
+    },
+    {
+        "id": 2,
+        "title": "Angular desde cero",
+        "image": "https://edteam-media.s3.amazonaws.com/courses/original/7fd29763-c6b4-4a98-951b-65a5b26b8aaa.png",
+        "price": 50
+    },
+    {
+        "id": 3,
+        "title": "Vue desde cero",
+        "image": "https://edteam-media.s3.amazonaws.com/courses/original/7fd29763-c6b4-4a98-951b-65a5b26b8aaa.png",
+        "price": 45
+    },
+    {
+        "id": 4,
+        "title": "Git desde cero",
+        "image": "https://edteam-media.s3.amazonaws.com/courses/original/7fd29763-c6b4-4a98-951b-65a5b26b8aaa.png",
+        "price": 30
+    }
+ ]
+}
